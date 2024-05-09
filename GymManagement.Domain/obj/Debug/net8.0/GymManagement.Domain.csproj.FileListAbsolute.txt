@@ -1,0 +1,11 @@
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.deps.json
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.pdb
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfoInputs.cache
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfo.cs
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll

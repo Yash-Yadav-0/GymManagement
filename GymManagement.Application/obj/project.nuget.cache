@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSUby5z9jbX7OaddVFdh5yFmJM+uCOqrozTEMm9Ksteh+SHOU5KbvfFrb1xP0AP7ARbIOcp1m5YvDjXAVBageg==",
+  "success": true,
+  "projectFilePath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Application\\GymManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yash\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

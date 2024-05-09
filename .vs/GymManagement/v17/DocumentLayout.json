@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA6AAF7-0053-431B-9D1E-EDFE4ED115E7}|GymManagement.Api\\GymManagement.Api.csproj|e:\\vscodeprojects\\minimalapidometrain\\gymmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA6AAF7-0053-431B-9D1E-EDFE4ED115E7}|GymManagement.Api\\GymManagement.Api.csproj|solutionrelative:gymmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|e:\\vscodeprojects\\minimalapidometrain\\gymmanagement.contracts\\subscriptions\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|solutionrelative:gymmanagement.contracts\\subscriptions\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|e:\\vscodeprojects\\minimalapidometrain\\gymmanagement.contracts\\subscriptions\\subscriptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|solutionrelative:gymmanagement.contracts\\subscriptions\\subscriptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|e:\\vscodeprojects\\minimalapidometrain\\gymmanagement.contracts\\subscriptions\\createsubscriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1616A324-8B5B-4EDE-AEAE-A64A5CCBFB5F}|GymManagement.Contracts\\GymManagement.Contracts.csproj|solutionrelative:gymmanagement.contracts\\subscriptions\\createsubscriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA6AAF7-0053-431B-9D1E-EDFE4ED115E7}|GymManagement.Api\\GymManagement.Api.csproj|e:\\vscodeprojects\\minimalapidometrain\\gymmanagement.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA6AAF7-0053-431B-9D1E-EDFE4ED115E7}|GymManagement.Api\\GymManagement.Api.csproj|solutionrelative:gymmanagement.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagement.Api\\Program.cs",
+              "ToolTip": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Api\\Program.cs",
+              "RelativeToolTip": "GymManagement.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:36:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "GymManagement.Contracts\\Subscriptions\\SubscriptionType.cs",
+              "ToolTip": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\SubscriptionType.cs",
+              "RelativeToolTip": "GymManagement.Contracts\\Subscriptions\\SubscriptionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:33.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionResponse.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\SubscriptionResponse.cs",
+              "RelativeDocumentMoniker": "GymManagement.Contracts\\Subscriptions\\SubscriptionResponse.cs",
+              "ToolTip": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\SubscriptionResponse.cs",
+              "RelativeToolTip": "GymManagement.Contracts\\Subscriptions\\SubscriptionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubscriptionRequest.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\CreateSubscriptionRequest.cs",
+              "RelativeDocumentMoniker": "GymManagement.Contracts\\Subscriptions\\CreateSubscriptionRequest.cs",
+              "ToolTip": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Contracts\\Subscriptions\\CreateSubscriptionRequest.cs",
+              "RelativeToolTip": "GymManagement.Contracts\\Subscriptions\\CreateSubscriptionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Api\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "GymManagement.Api\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Api\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "GymManagement.Api\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:31:22.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

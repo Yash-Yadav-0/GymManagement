@@ -1,0 +1,11 @@
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.deps.json
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.pdb
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfo.cs
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\refint\GymManagement.Contracts.dll
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.pdb
+E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Contracts\obj\Debug\net8.0\ref\GymManagement.Contracts.dll
