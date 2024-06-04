@@ -9,3 +9,15 @@ E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymM
 E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
 E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
 E:\VsCodeProjects\MinimalApiDomeTrain\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.deps.json
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.dll
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.pdb
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfoInputs.cache
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfo.cs
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.sourcelink.json
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.dll
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
+E:\VsCodeProjects\GymManagement\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bjzj3xsTAEXZ2YN7yYPVCSLEIozjVruysAPNPxM2sfIY5UqXD/a6bK2yNiZdb43K6K7+QibH1TGSiRdVVauybA==",
+  "dgSpecHash": "MHqNZbeEJOqjUcYyU3JyTClgrxE4aYM1px9WaB2zzwWpO8ute2Vkdc5eT43B/hww9lYd4WDywPI1Mr/G/O+1fA==",
   "success": true,
-  "projectFilePath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Api\\GymManagement.Api.csproj",
+  "projectFilePath": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Api\\GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yash\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Yash\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Yash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\Yash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Yash\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",

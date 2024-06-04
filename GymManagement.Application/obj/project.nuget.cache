@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XSUby5z9jbX7OaddVFdh5yFmJM+uCOqrozTEMm9Ksteh+SHOU5KbvfFrb1xP0AP7ARbIOcp1m5YvDjXAVBageg==",
+  "dgSpecHash": "wl+Xn9Qo727ARNcLNFwbLaC4z8XQ+P7ONbNALu48TzbZTlqMdUtVcCtHPeLPI56IlpDvOHXhq+oJAD1YCSpJlA==",
   "success": true,
-  "projectFilePath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Application\\GymManagement.Application.csproj",
+  "projectFilePath": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Application\\GymManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yash\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Yash\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Yash\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []

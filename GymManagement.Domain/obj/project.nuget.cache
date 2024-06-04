@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VhJ5vFvfm+EX/VRfS/FR7c44RhA7pESGQQmQKXxb49aG47h2itTETM7XmhHa61l2gwCJTFbieBpK4D1TIOSyw==",
+  "dgSpecHash": "ypsZnoeSxbWoL0ioXwYYwIIewV6u5AqImw1XMU9hOkEQghBjG/5q7h6MMY4TWlbhxSKlSheg2BsRbvTkNHtOLw==",
   "success": true,
-  "projectFilePath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\GymManagement.Domain.csproj",
+  "projectFilePath": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\GymManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

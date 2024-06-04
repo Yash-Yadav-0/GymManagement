@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\GymManagement.Domain.csproj": {}
+    "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\GymManagement.Domain.csproj": {}
   },
   "projects": {
-    "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\GymManagement.Domain.csproj": {
+    "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\GymManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "projectUniqueName": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\GymManagement.Domain.csproj",
         "projectName": "GymManagement.Domain",
-        "projectPath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "projectPath": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\GymManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "E:\\VsCodeProjects\\MinimalApiDomeTrain\\GymManagement.Domain\\obj\\",
+        "outputPath": "E:\\VsCodeProjects\\GymManagement\\GymManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
